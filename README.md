@@ -1,6 +1,6 @@
 # Chest-X-ray
 
-This project is one of my assignment related to https://www.coursera.org/ in AI for Medicine Specialization.
+This project is one of my assignments related to https://www.coursera.org/ in AI for Medicine Specialization.
 This Course includes three different courses entitled: AI for Medical Diagnosis, AI for Medical Prognosis and AI For Medical Treatment
 Chest-X-ray is an assignemtn for the first course; ie AI for Medical Diagnosis
 
@@ -39,7 +39,7 @@ nih/train-small.csv: 875 images for training.
 nih/valid-small.csv: 109 images for validation.
 nih/test.csv: 420 images for testing.
 
-You can download these CSV files [here](???????).
+You can download these CSV files [here](https://drive.google.com/drive/folders/19GLbu2KmzOZfYo_dXA7fhWxsXml4tJYr?usp=share_link).
 
 This dataset has been annotated by consensus among four different radiologists for 5 of our 14 pathologies:
 
@@ -82,5 +82,5 @@ It is used a pre-trained [DenseNet121](https://www.kaggle.com/datasets/pytorch/d
 
 ## Contact
 
-If you have any anything to tell, I will be glad to hear from you: [my Email](Zahra1997khazaei@gmail.com)
+If you have any anything to tell, I will be glad to hear from you: my Email is Zahra1997khazaei@gmail.com
 Also, I will be happy to visit my [website](https://el-ham.com/)
